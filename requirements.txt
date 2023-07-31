@@ -1,4 +1,4 @@
-# checkov:skip=protobufs[BC_LIC_2]: ADD License 1
+# checkov:skip=protobufsds[BC_LIC_2]: ADD License 1
 pandas
 scipy
 matplotlib
